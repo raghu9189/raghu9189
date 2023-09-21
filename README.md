@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">Passionate about Backend development and DevOps</h3>
 
-- 🔭 I’m currently working as SDE **at Skilzen**
+- 🔭 I’m currently working as an SDE **at Skilzen**
 
-- 💬 Ask me about **AWS, MySQL**
+- 💬 Ask me about **API Development, AWS, MySQL, DevOps**
 
 - 📫 How to reach me **raghu.ballu@gmail.com**
 
