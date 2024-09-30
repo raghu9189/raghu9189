@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an SDE **at Skilzen**
 
-- 💬 Ask me about **API Development, AWS, MySQL, DevOps**
+- 💬 Ask me about **API Development, AWS, MySQL, DevOps, Automation and Linux Server Management**
 
 - 📫 How to reach me **raghu.ballu@gmail.com**
 
