@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Full Stack Development </h3>
 
 - 🔭 I’m currently working as an SDE **at Skilzen**
-- 💬 Ask me about **API Development, Java, Sring Boot, TypeScript, Angular, JavaScript AWS, MySQL, DevOps, Automation and Linux Server Management**
+- 💬 Ask me about **API Development, Java, Spring Boot, TypeScript, Angular, JavaScript AWS, MySQL, DevOps, Automation and Linux Server Management**
 - 📫 How to reach me **raghu.ballu@gmail.com**
 
 <p align="left"></p>
