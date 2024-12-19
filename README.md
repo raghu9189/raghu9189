@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">Passionate about Full Stack Development </h3>
 
-- 🔭 I’m currently working as an SDE **at Skilzen**
+- 🔭 I’m currently working as an SDE **at Skilzen Ed-Tech Pvt. Ltd.**
 - 💬 I mostly work on **API Development, Node.js, Express.js, Java, Spring Boot, TypeScript, React.js, Angular, JavaScript, AWS, MySQL, DevOps, Automation and Linux Server Management**
 - 📫 How to reach me **raghu.ballu@gmail.com**
 
