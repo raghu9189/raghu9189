@@ -40,10 +40,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> </a> -->
 </p>
 <!-- <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> -->
@@ -57,5 +57,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/raghuballu/"><img src="https://img.shields.io/badge/-Raghu%20Ballu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:raghu.ballu@gmail.com"><img src="https://img.shields.io/badge/- raghu.ballu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/raghu9.99/"><img src="https://img.shields.io/badge/-@raghu9.99_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/raghu9.18/"><img src="https://img.shields.io/badge/-@raghu9.18_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
