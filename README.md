@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
-<h3 align="center">Passionate about Full Stack Development </h3>
+<h3 align="center">Software Development Engineer | Full Stack Developer | Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working as an SDE **at Skilzen Ed-Tech Pvt. Ltd.**
-- 💬 I mostly work on **API Development, Frontend Design & enhancements: Node.js, Express.js, React.Js, TypeScript, JavaScript, AWS, MySQL, DevOps, Automation and Linux Server Management**
+- 💼 Currently working as a **Software Development Engineer** at **Skilzen Ed-Tech Pvt. Ltd.**
+- 👨‍💻 3+ years of experience in building scalable backend systems, interactive frontends, and automating cloud deployments
+- 🧠 Proficient in REST API design, database modeling, DevOps pipelines, and cloud infrastructure with **AWS**, **Digital Ocean**
+- 📊 Experienced with **SQL**, **MySQL**, **Redis**, **Docker**, **GitHub Actions**, and monitoring tools
+- 🌐 Focused on building secure, high-performance applications and optimizing cloud cost and availability
+- 🚀 Skilled in **API Development, Frontend Design & enhancements: Node.js, Express.js, React.Js, TypeScript, JavaScript, AWS, MySQL, DevOps Practices & Linux**
 - 📫 How to reach me **raghu.ballu@gmail.com**
 
 <p align="left"></p>
