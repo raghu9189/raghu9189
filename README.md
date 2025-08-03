@@ -63,9 +63,9 @@
 <p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raghu9189&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </p>
-<p>
+<!-- <p>
   <img src="https://github-profile-trophy.vercel.app/?username=raghu9189&theme=algolia&rank=S,AAA,AA,A,B&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="raghu9189 trophies" />
-</p>
+</p> -->
 
 
 
