@@ -50,9 +50,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=raghu9189&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=raghu9189&theme=algolia"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghu9189&theme=algolia)](https://git.io/streak-stats)
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raghu9189&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </p>
 
 ---
