@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 💼 Currently working as a **Senior Software Engineer** at **Uone Ed-Tech Pvt. Ltd.**
+- 💼 Currently working as a **Software Engineer** at **Skilzen Ed-Tech Pvt. Ltd.**
 - 👨‍💻 3+ years of experience in building scalable backend systems, interactive frontends, and automating cloud deployments
 - 🧠 Proficient in REST API design, database modeling, DevOps pipelines, and cloud infrastructure with **AWS**, **Digital Ocean**
 - 📊 Experienced with **SQL**, **MySQL**, **Redis**, **Docker**, **GitHub Actions**, and monitoring tools
