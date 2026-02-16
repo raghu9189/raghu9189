@@ -5,7 +5,7 @@
 - 💼 Currently working as a **Software Engineer** at **Skilzen Ed-Tech Pvt. Ltd.**
 - 👨‍💻 3+ years of experience in building scalable backend systems, interactive frontends, and automating cloud deployments
 - 🧠 Proficient in REST API design, database modeling, DevOps pipelines, and cloud infrastructure with **AWS**, **Digital Ocean**
-- 📊 Experienced with **SQL**, **MySQL**, **Redis**, **Docker**, **GitHub Actions**, and monitoring tools
+- 📊 Experienced with **SQL**, **MySQL**, **Redis**, **Docker**, **RabbitMQ**, **GitHub Actions**, and monitoring tools
 - 🌐 Focused on building secure, high-performance applications and optimizing cloud cost & availability
 - 🚀 Tech Skills: **Node.js, Express.js, React.js, TypeScript, JavaScript, AWS, MySQL, DevOps, Linux**
 - 📫 Reach me at **raghu.ballu@gmail.com**
