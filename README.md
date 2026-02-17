@@ -10,43 +10,78 @@
 - 🚀 Tech Skills: **Node.js, Express.js, React.js, TypeScript, JavaScript, AWS, MySQL, DevOps, Linux**
 - 📫 Reach me at **raghu.ballu@gmail.com**
 
----
-
 ### 🛠 Languages and Tools:
 
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" width="90"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/><br>TypeScript</td>
-      <td align="center" width="90"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
-      <td align="center" width="90"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/><br>Node.js</td>
-      <td align="center" width="90"><img width="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/><br>Express.js</td>
-      <td align="center" width="90"><img width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/><br>React.js</td>
-    </tr>
-    <tr>
-      <td align="center"><img width="40" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg"/><br>Postman</td>
-      <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/><br>Docker</td>
-      <td align="center"><img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/><br>Git</td>
-      <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/><br>Linux</td>
-      <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/><br>MySQL</td>
-    </tr>
-    <tr>
-      <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/><br>Redis</td>
-      <td align="center">
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-               alt="aws" width="40" height="40"/>
-        </a>
-        <br>AWS
+      <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>TypeScript
       </td>
-      <td align="center"><img width="40" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/><br>Nginx</td>
-      <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><br>HTML5</td>
-      <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br>CSS3</td>
+      <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>Python
+      </td>
+      <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/><br>NestJS
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/><br>Express.js
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br>React.js
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/><br>Next.js
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><br>Docker
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><br>Linux
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><br>PostgreSQL
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><br>MySQL
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/><br>Redis
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/><br>Nginx
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/><br>AWS
+      </td>
+      <td align="center">
+        <img width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/><br>Postman
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br>HTML5
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><br>CSS3
+      </td>
+      <td></td>
     </tr>
   </table>
 </p>
-
----
 
 ### ⚙️ GitHub Analytics
 
