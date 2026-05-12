@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">Software Engineer</h3>
 
@@ -33,7 +33,6 @@
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/><br>.NET Core
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><br>Node.js
@@ -51,7 +50,6 @@
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/><br>Next.js
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><br>Docker
@@ -69,7 +67,6 @@
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><br>Linux
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><br>PostgreSQL
@@ -87,7 +84,6 @@
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/><br>AWS
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/><br>Postman
@@ -106,7 +102,6 @@
   </table>
 </p>
 
----
 
 ### 🏗 Engineering Principles
 
@@ -138,4 +133,4 @@
 ### ✨ Quote I Live By
 
 <p align="center"><i>“Code. Build. Scale. Deploy. Repeat.”</i></p>
-```
+
