@@ -8,7 +8,7 @@
 - ⚙️ Skilled in developing REST APIs, distributed systems, message-driven architectures, and cloud infrastructure
 - 📊 Experienced with **SQL**, **MySQL**, **PostgreSQL**, **Redis**, **RabbitMQ**, **Docker**, **GitHub Actions**, and monitoring tools
 - ☁️ Hands-on experience with **AWS**, **Digital Ocean**, CI/CD pipelines, Linux servers, and infrastructure automation
-- 🚀 Tech Stack: **Node.js, Express.js, NestJS, React.js, TypeScript, JavaScript, .NET Core, AWS, DevOps**
+- 🚀 Tech Stack: **.NET Core, .NET 8, C#, Node.js, Express.js, NestJS, React.js, TypeScript, JavaScript ES6, AWS, DevOps**
 - 🔥 Strong understanding of backend engineering concepts including **Microservices**, **System Design**, **Message Queues**, and **API Security**
 - 📫 Reach me at **raghu.ballu@gmail.com**
 
