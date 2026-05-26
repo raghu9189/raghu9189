@@ -6,9 +6,9 @@
 - 👨‍💻 3+ years of experience in building scalable backend systems, interactive frontends, and cloud-native applications
 - 🧠 Experienced in designing scalable architectures using **Clean Architecture**, **SOLID Principles**, and modern **Design Principles**
 - ⚙️ Skilled in developing REST APIs, distributed systems, message-driven architectures, and cloud infrastructure
-- 📊 Experienced with **SQL**, **MySQL**, **PostgreSQL**, **Redis**, **RabbitMQ**, **Docker**, **GitHub Actions**, and monitoring tools
-- ☁️ Hands-on experience with **AWS**, **Digital Ocean**, CI/CD pipelines, Linux servers, and infrastructure automation
-- 🚀 Tech Stack: **.NET Core, .NET 8, C#, Node.js, Express.js, NestJS, React.js, TypeScript, JavaScript ES6, AWS, DevOps**
+- 📊 Experienced with **PostgreSQL**, **Redis**, **RabbitMQ**, **Docker**, **GitHub Actions**, and monitoring tools
+- ☁️ Hands-on experience with **AWS**, CI/CD pipelines.
+- 🚀 Tech Stack: **C#, .NET Core, .NET Web API, Node.js, React.js, TypeScript, JavaScript ES6**
 - 🔥 Strong understanding of backend engineering concepts including **Microservices**, **System Design**, **Message Queues**, and **API Security**
 - 📫 Reach me at **raghu.ballu@gmail.com**
 
