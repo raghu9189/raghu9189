@@ -18,6 +18,12 @@
   <table align="center">
     <tr>
       <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>C#
+      </td>
+      <td align="center" width="90">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/><br>.NET Core
+      </td>
+      <td align="center" width="90">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>TypeScript
       </td>
       <td align="center" width="90">
@@ -25,12 +31,6 @@
       </td>
       <td align="center" width="90">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>Python
-      </td>
-      <td align="center" width="90">
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>C#
-      </td>
-      <td align="center" width="90">
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/><br>.NET Core
       </td>
     </tr>
     <tr>
