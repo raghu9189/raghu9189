@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 💼 Currently working as a **Software Engineer** at **Skilzen Ed-Tech Pvt. Ltd.**
 - 👨‍💻 3+ years of experience in building scalable backend systems, interactive frontends, and cloud-native applications
 - 🧠 Experienced in designing scalable architectures using **Clean Architecture**, **SOLID Principles**, and modern **Design Principles**
 - ⚙️ Skilled in developing REST APIs, distributed systems, message-driven architectures, and cloud infrastructure
