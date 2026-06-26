@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
-<h3 align="center">Data Analyst </h3>
+<h3 align="center">Data Analyst/Data Engineer </h3>
 
 📊 Working on Data Analytics, Data Engineering, and Machine Learning
 🐍 Experienced with Python, SQL, Pandas, NumPy, and Data Visualization
