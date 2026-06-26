@@ -5,7 +5,7 @@
 🐍 Experienced with Python, SQL, Pandas, NumPy, and Data Visualization
 📈 Building data-driven solutions and extracting actionable insights from data
 🤖 Interested in Machine Learning, AI, and Data Engineering
-* 💼 1.5 & 1.5+ years of professional and Freelancing experience in Data Analysis & Data Engineering
+* 💼 3+ years of professional and Freelancing experience in Data Analysis & Data Engineering
 * 📫 Reach me at **[raghu.ballu@gmail.com](mailto:raghu.ballu@gmail.com)**
 
 ---
